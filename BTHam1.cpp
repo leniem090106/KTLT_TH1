@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<string.h>
 #include <math.h>
 
 int laTamGiac(float a, float b, float c) {
